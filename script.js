@@ -64,7 +64,7 @@ function getMealRecipe(e){
   })(window, document, "script", "Botsonic", "https://widget.writesonic.com/CDN/botsonic.min.js");
   Botsonic("init", {
     serviceBaseUrl: "https://api-azure.botsonic.ai",
-    token: "b391fd80-d775-430c-84ed-fee915d709a0",
+    token: "YOUR BOTSONIC TOKEN",
   });
 // create a modal
 function mealRecipeModal(meal){
